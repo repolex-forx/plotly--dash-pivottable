@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/plotly/dash-pivottable/commit/3440a26ce9fb533c5dc81ea1d6cce7960d625155",
       "git:hexsha": "3440a26ce9fb533c5dc81ea1d6cce7960d625155",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/plotly/dash-pivottable/commit/b7602b5f7fcd652209b2ffd94f9870869c431837",
